@@ -1,0 +1,14 @@
+input{
+background-color: red;
+/* height: 100%; */
+width: 20%;
+color: white;
+border: 7px  black solid;
+font-size: 100%;
+}
+#nav{
+    opacity: 0.5;
+}
+h1{
+    font-size: 250%;
+}
